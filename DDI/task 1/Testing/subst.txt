@@ -1,0 +1,3650 @@
+aminoglycosides
+gentamicin
+amikacin
+amphotericin B
+cyclosporine
+non-steroidal anti-inflammatory
+ibuprofen
+tacrolimus
+vancomycin
+.
+Adenocard
+adenosine
+quinidine
+beta-adrenergic blocking agents
+calcium channel blocking agents
+angiotensin converting enzyme inhibitors
+.
+Digoxin
+verapamil
+Adenocard
+.
+Adenocard
+.
+Adenocard
+digitalis
+.
+adenosine
+methylxanthines
+caffeine
+theophylline
+.
+methylxanthines
+adenosine
+adenosine
+.
+Adenosine
+dipyridamole
+.
+adenosine
+dipyridamole
+.
+Carbamazepine
+.
+adenosine
+carbamazepine
+.
+antifungal agents
+ketoconazole
+itraconazole
+.
+Nafazodone
+fluvoxamine
+cimetidine
+Xanax
+.
+Fluoxetine
+OCs
+sertraline
+diltiazem
+macrolide antibiotics
+.
+Dexamethasone
+albendazole sulfoxide
+dexamethasone
+albendazole
+.
+Praziquantel
+praziquantel
+albendazole sulfoxide
+albendazole
+.
+albendazole sulfoxide
+.
+praziquantel
+albendazole
+.
+Cimetidine
+Albendazole sulfoxide
+cimetidine
+albendazole
+.
+Albendazole sulfoxide
+.
+Theophylline
+theophylline
+aminophylline
+albendazole
+.
+PROLEUKIN
+.
+psychotropic drugs
+narcotics
+analgesics
+antiemetics
+sedatives
+tranquilizers
+.
+aminoglycosides
+indomethacin
+cytotoxic
+doxorubicin
+methotrexate
+asparaginase
+PROLEUKIN
+.
+PROLEUKIN
+antineoplastic agents
+.
+PROLEUKIN
+.
+PROLEUKIN
+antineoplastic agents
+dacarbazine
+cis-platinum
+tamoxifen
+interferon-alfa
+.
+PROLEUKIN
+interferon-alfa
+.
+interferon-alfa
+PROLEUKIN
+.
+glucocorticoids
+PROLEUKIN
+PROLEUKIN
+PROLEUKIN
+Beta-blockers
+antihypertensives
+PROLEUKIN
+.
+Iodinated Contrast Media
+interleukin-2
+radiographic iodinated contrast media
+.
+interleukin-2
+.
+interleukin-2
+.
+interleukin-2
+.
+AMEVIVE
+immunosuppressive
+.
+alefacept
+.
+alefacept
+.
+AMEVIVE
+.
+immunosuppressive
+.
+AMEVIVE
+AMEVIVE
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+AMEVIVE
+.
+Campath
+.
+Campath
+antibodies
+.
+ranitidine
+alendronate
+.
+H2-antagonists
+.
+calcium
+multivalent cations
+alendronate
+.
+ALFENTA
+CNS depressants
+barbiturates
+tranquilizers
+opioids
+anesthetics
+.
+volatile inhalation anesthetics
+ALFENTA
+erythromycin
+ALFENTA
+ALFENTA
+.
+Cimetidine
+ALFENTA
+.
+ALFENTA
+ALFENTA
+.
+UROXATRAL
+alpha-blockers
+.
+UROXATRAL
+alpha-blockers
+.
+Aliskiren
+aliskiren
+.
+lovastatin
+atenolol
+warfarin
+furosemide
+digoxin
+celecoxib
+hydrochlorothiazide
+ramipril
+valsartan
+metformin
+amlodipine
+aliskiren
+.
+irbesartan
+aliskiren
+.
+atorvastatin
+aliskiren
+.
+Ketoconazole
+ketoconazole
+aliskiren
+aliskiren
+.
+aliskiren
+.
+Aliskiren
+Aliskiren
+.
+aliskiren
+lovastatin
+digoxin
+valsartan
+amlodipine
+metformin
+celecoxib
+atenolol
+atorvastatin
+ramipril
+hydrochlorothiazide
+.
+Warfarin
+aliskiren
+warfarin
+.
+Furosemide
+aliskiren
+furosemide
+furosemide
+.
+Panretin
+DEET
+N-diethyl-m-toluamide
+.
+DEET
+DEET
+.
+antiretroviral agents
+protease inhibitors
+macrolide antibiotics
+azole antifungals
+Panretin
+.
+Panretin
+.
+allopurinol
+.
+allopurinol
+.
+Mercaptopurine
+Azathioprine
+Allopurinol
+mercaptopurine
+azathioprine
+6-thiouric acid
+.
+mercaptopurine
+.
+mercaptopurine
+Purinethol
+azathioprine
+Imuran
+allopurinol
+mercaptopurine
+azathioprine
+.
+mercaptopurine
+azathioprine
+.
+Dicumarol
+allopurinol
+anticoagulant
+dicumarol
+.
+allopurinol
+dicumarol
+.
+Uricosuric Agents
+oxipurinol
+uricosuric agents
+oxipurinol
+.
+uricosuric agents
+allopurinol
+allopurinol
+.
+allopurinol
+uricosuric agents
+.
+Thiazide Diuretics
+allopurinol
+thiazide diuretics
+allopurinol
+.
+thiazide diuretics
+.
+allopurinol
+.
+thiazide diuretics
+allopurinol
+.
+Ampicillin
+Amoxicillin
+ampicillin
+amoxicillin
+allopurinol
+.
+Cytotoxic Agents
+cyclophosphamide
+cytotoxic agents
+allopurinol
+.
+allopurinol
+cyclophosphamide
+doxorubicin
+bleomycin
+procarbazine
+mechlorethamine
+.
+Chlorpropamide
+Chlorpropamide
+allopurinol
+allopurinol
+chlorpropamide
+.
+allopurinol
+chlorpropamide
+.
+Cyclosporin
+cyclosporine
+allopurinol sodium
+.
+cyclosporine
+cyclosporine
+.
+Tolbutamide
+.
+Ergot-Containing Drugs
+.
+ergotamine
+ergot-type medications
+dihydroergotamine
+methysergide
+AXERT
+.
+Monoamine Oxidase Inhibitors
+moclobemide
+almotriptan
+.
+5-HT1B/1D Agonists
+5-HT1B/1D agonists
+AXERT
+.
+Propanolol
+almotriptan
+propranolol
+.
+Selective Serotonin Reuptake Inhibitors
+SSRIs
+SSRIs
+fluoxetine
+fluvoxamine
+paroxetine
+sertraline
+5-HT1 agonists
+.
+AXERT
+SSRI
+.
+Verapamil
+almotriptan
+verapamil
+almotriptan
+.
+almotriptan
+ketoconazole
+almotriptan
+.
+almotriptan
+itraconazole
+ritonavir
+erythromycin
+almotriptan
+almotriptan
+.
+AXERT
+.
+alosetron
+alosetron
+.
+Fluvoxamine
+.
+fluvoxamine
+alosetron
+.
+Fluvoxamine
+alosetron
+.
+alosetron
+fluvoxamine
+.
+alosetron
+quinolone antibiotics
+cimetidine
+.
+Ketoconazole
+.
+ketoconazole
+alosetron
+.
+Ketoconazole
+alosetron
+.
+alosetron
+ketoconazole
+.
+alosetron
+clarithromycin
+telithromycin
+protease inhibitors
+voriconazole
+itraconazole
+.
+alosetron
+.
+alosetron
+.
+alosetron
+.
+alosetron
+.
+alosetron
+isoniazid
+procainamide
+hydralazine
+.
+theophylline
+.
+alosetron
+contraceptive agents
+ethinyl estradiol
+levonorgestrel
+.
+alosetron
+cisapride
+.
+cisapride
+.
+alosetron
+.
+alosetron
+.
+Alosetron
+.
+Alosetron
+.
+alosetron
+.
+benzodiazepines
+alprazolam
+psychotropic medications
+anticonvulsants
+antihistaminics
+ethanol
+.
+imipramine
+desipramine
+alprazolam
+.
+Alprazolam
+alprazolam
+.
+alprazolam
+.
+Alprazolam
+alprazolam
+fluoxetine
+alprazolam
+alprazolam
+.
+propoxyphene
+alprazolam
+.
+contraceptives
+alprazolam
+.
+benzodiazepines
+alprazolam
+alprazolam
+benzodiazepines
+alprazolam
+benzodiazepines
+alprazolam
+alprazolam
+diltiazem
+isoniazid
+macrolide antibiotics
+erythromycin
+clarithromycin
+.
+alprazolam
+alprazolam
+sertraline
+paroxetine
+.
+benzodiazepines
+alprazolam
+ergotamine
+cyclosporine
+amiodarone
+nicardipine
+nifedipine
+.
+alprazolam
+.
+Prostin VR Pediatric
+.
+antibiotics
+penicillin
+gentamicin
+.
+vasopressors
+dopamine
+isoproterenol
+.
+cardiac glycosides
+.
+diuretics
+furosemide
+.
+Caverject
+alprostadil
+.
+Activase
+.
+heparin
+vitamin K antagonists
+acetylsalicylic acid
+dipyridamole
+Abciximab
+Activase
+.
+Antithrombotics
+Aspirin
+heparin
+Activase
+.
+heparin
+aspirin
+Activase
+.
+heparin
+aspirin
+.
+Activase
+.
+HEXALEN
+antidepressants of the MAO inhibitor class
+Cimetidine
+altretamine
+.
+HEXALEN
+cisplatin
+pyridoxine
+pyridoxine
+.
+pyridoxine
+HEXALEN
+cisplatin
+.
+amantadine
+central nervous system stimulants
+.
+thioridazine
+.
+phenothiazines
+.
+ETHYOL
+antihypertensive medications
+.
+amiloride
+angiotensin-converting enzyme inhibitor
+.
+Lithium
+diuretics
+.
+lithium
+.
+non-steroidal anti-inflammatory agent
+loop diuretics
+potassium-sparing diuretics
+thiazide diuretics
+.
+MIDAMOR
+non-steroidal anti-inflammatory agents
+diuretic
+.
+indomethacin
+potassium-sparing diuretics
+MIDAMOR
+.
+AMICAR
+.
+EACA
+.
+AMICAR
+.
+AMICAR
+.
+AMICAR
+.
+Cytadren
+dexamethasone
+.
+glucocorticoid
+hydrocortisone
+.
+Aminoglutethimide
+coumarin
+warfarin
+.
+PAH
+sulfonamides
+procaine
+thiazolesulfone
+.
+Probenecid
+PAH
+.
+probenecid
+PAH
+.
+LEVULAN KERASTICK
+.
+photosensitizing agents
+griseofulvin
+thiazide diuretics
+sulfonylureas
+phenothiazines
+sulfonamides
+tetracyclines
+LEVULAN KERASTICK
+.
+Aminosalicylic acid
+digoxin
+Lanoxin
+Lanoxicaps
+.
+digoxin
+aminosalicylic acid
+digoxin
+.
+Aminosalicylic acid
+vitamin B12
+.
+vitamin B12
+aminosalicylic acid
+.
+Amiodarone
+desethylamiodarone
+.
+Amiodarone
+.
+amiodarone
+.
+amiodarone
+.
+antiarrhythmics
+.
+amiodarone
+amiodarone
+.
+amiodarone
+amiodarone
+.
+Protease Inhibitors
+Protease inhibitors
+.
+amiodarone
+indinavir
+amiodarone
+.
+amiodarone
+amiodarone
+protease inhibitor
+.
+Histamine H2 antagonists
+Cimetidine
+amiodarone
+.
+amiodarone
+amiodarone
+.
+amiodarone
+amiodarone
+.
+Amiodarone
+CYP1A2
+CYP2C9
+CYP2D6
+CYP3A4
+.
+drugs
+.
+Immunosuppressive
+Cyclosporine
+CYP3A4
+amiodarone
+cyclosporine
+cyclosporine
+.
+HMG-CoA Reductase Inhibitors
+Simvastatin
+CYP3A4
+amiodarone
+.
+Cardiac glycosides
+digoxin
+amiodarone
+digoxin
+.
+Amiodarone
+digoxin
+digoxin
+.
+amiodarone
+digitalis
+.
+digitalis
+.
+digitoxin
+.
+Antiarrhythmics
+antiarrhythmic
+quinidine
+procainamide
+disopyramide
+phenytoin
+amiodarone
+.
+quinidine
+procainamide
+phenytoin
+amiodarone
+.
+Phenytoin
+.
+Amiodarone
+quinidine
+quinidine
+.
+Amiodarone
+procainamide
+procainamide
+procainamide
+.
+Quinidine
+amiodarone
+.
+flecainide
+amiodarone
+.
+flecainide
+drugs
+.
+antiarrhythmic drug
+.
+amiodarone
+antiarrhythmic
+amiodarone
+.
+amiodarone
+amiodarone
+.
+antiarrhythmic
+amiodarone
+.
+amiodarone
+.
+amiodarone
+antiarrhythmic
+.
+Antihypertensives
+Amiodarone
+receptor
+propranolol
+CYP3A4
+calcium channel
+verapamil
+CYP3A4
+diltiazem
+CYP3A4
+.
+amiodarone
+.
+Anticoagulants
+warfarin
+CYP2C9
+CYP3A4
+anticoagulant
+amiodarone
+.
+warfarin
+amiodarone
+anticoagulant
+.
+drugs
+amiodarone
+CYP3A4
+.
+amiodarone
+.
+Antibiotics
+Rifampin
+CYP3A4
+.
+rifampin
+amiodarone
+amiodarone
+desethylamiodarone
+.
+amiodarone
+CYP3A4
+amiodarone
+amiodarone
+.
+amiodarone
+Fentanyl
+CYP3A4
+amiodarone
+.
+amiodarone
+lidocaine
+CYP3A4
+anesthesia
+.
+lidocaine
+amiodarone
+.
+Dextromethorphan
+CYP2D6
+CYP3A4
+.
+Amiodarone
+CYP2D6
+.
+Cholestyramine
+amiodarone
+t1
+.
+Disopyramide
+.
+Fluoroquinolones
+macrolide antibiotics
+.
+amiodarone
+fluoroquinolones
+macrolide antibiotics
+.
+propranolol
+diltiazem
+verapamil
+.
+Anesthetic
+.
+Cordarone
+phenytoin
+dextromethorphan
+methotrexate
+.
+Cordarone I.V.
+.
+diuretics
+.
+tricyclic antidepressants
+TCAs
+.
+TCA
+.
+TCA
+.
+quinidine
+.
+cimetidine
+antidepressants
+phenothiazines
+Type 1C antiarrhythmics
+propafenone
+flecainide
+.
+serotonin reuptake inhibitors
+SSRIs
+fluoxetine
+sertraline
+paroxetine
+.
+SSRI
+TCA
+SSRI
+.
+TCAs
+SSRIs
+.
+fluoxetine
+.
+tricyclic antidepressants
+tricyclic antidepressant
+.
+tricyclic antidepressant
+.
+TCA
+TCA
+.
+Monoamine Oxidase Inhibitors
+Guanethidine
+.
+thyroid
+.
+alcohol
+barbiturates
+CNS depressants
+.
+disulfiram
+amitriptyline HCl
+anticholinergic
+sympathomimetic
+epinephrine
+anesthetics
+.
+amitriptyline HCl
+anticholinergic
+neuroleptic
+.
+tricyclic antidepressants
+anticholinergic
+.
+Cimetidine
+tricyclic antidepressants
+drugs
+.
+tricyclic antidepressants
+cimetidine
+.
+tricyclic antidepressants
+anticholinergic
+cimetidine
+drug
+.
+cimetidine
+tricyclic antidepressants
+cimetidine
+antidepressants
+.
+ethchlorvynol
+.
+ethchlorvynol
+amitriptyline HCl
+.
+amphotericin B
+Antineoplastic agents
+.
+Antineoplastic agents
+nitrogen mustard
+.
+Corticosteroids
+Corticotropin
+ACTH
+amphotericin B
+.
+amphotericin B
+.
+Digitalis glycosides
+amphotericin B
+digitalis
+.
+Flucytosine
+amphotericin B
+flucytosine
+.
+Imidazoles
+ketoconazole
+miconazole
+clotrimazole
+fluconazole
+amphotericin B
+imidazoles
+imidazoles
+amphotericin B
+.
+aminoglycosides
+cyclosporine
+pentamidine
+.
+Skeletal muscle relaxants
+amphotericin B
+skeletal muscle relaxants
+tubocurarine
+.
+Leukocyte transfusions
+amphotericin B
+leukocyte transfusions
+.
+ampicillin
+.
+Allopurinol
+.
+Bacteriostatic Antibiotics
+Chloramphenicol
+erythromycins
+sulfonamides
+tetracyclines
+penicillins
+.
+Contraceptives
+.
+Probenecid
+ampicillin
+ampicillin
+.
+ampicillin
+copper sulfate
+.
+Amprenavir
+.
+Amprenavir
+.
+Amprenavir
+.
+HIV Protease Inhibitors
+amprenavir
+HIV protease inhibitors
+.
+Indinavir
+amprenavir
+.
+Saquinavir
+amprenavir
+.
+Nelfinavir
+amprenavir
+.
+Methadone
+amprenavir
+methadone
+methadone
+.
+amprenavir
+methadone
+amprenavir
+.
+Amprenavir
+.
+Amprenavir
+ritonavir
+.
+Amprenavir
+ritonavir
+.
+ritonavir
+NORVIR
+ritonavir
+.
+amyl nitrite
+alcohol
+.
+anagrelide
+.
+digoxin
+warfarin
+anagrelide
+anagrelide
+digoxin
+warfarin
+.
+anagrelide
+aspirin
+acetaminophen
+furosemide
+iron
+ranitidine
+hydroxyurea
+allopurinol
+.
+anagrelide
+.
+anagrelide
+aspirin
+.
+anagrelide
+acetylsalicylic acid
+.
+aspirin
+.
+Anagrelide
+aspirin
+.
+Anagrelide
+.
+fluvoxamine
+anagrelide
+.
+Anagrelide
+.
+Anagrelide
+theophylline
+.
+Anagrelide
+.
+milrinone
+enoximone
+amrinone
+olprinone
+cilostazol
+anagrelide
+.
+sucralfate
+anagrelide
+.
+anagrelide
+.
+methotrexate
+Kineret
+.
+Kineret
+etanercept
+etanercept
+.
+Kineret
+etanercept
+.
+Anastrozole
+.
+Anastrozole
+.
+Anastrozole
+antipyrine
+.
+antipyrine
+ARIMIDEX
+.
+warfarin
+anastrozole
+warfarin
+.
+ARIMIDEX
+tamoxifen
+tamoxifen
+.
+tamoxifen
+anastrozole
+.
+anastrozole
+tamoxifen
+anastrozole
+anastrozole
+.
+Estrogen
+ARIMIDEX
+.
+anidulafungin
+.
+anileridine
+opioids
+sedatives
+phenothiazines
+anesthetics
+.
+anticoagulants
+anticoagulant
+.
+anticoagulant
+.
+anticoagulant
+.
+cholestyramine
+anticoagulants
+vitamin K
+.
+carbamazepine
+.
+EQUETROTM
+Acetaminophen
+alprazolam
+amitriptyline
+bupropion
+buspirone
+citalopram
+clobazam
+clonazepam
+clozapine
+cyclosporin
+delavirdine
+desipramine
+diazepam
+dicumarol
+doxycycline
+ethosuximide
+felbamate
+felodipine
+glucocorticoids
+haloperidol
+itraconazole
+lamotrigine
+levothyroxine
+lorazepam
+methadone
+midazolam
+mirtazapine
+nortriptyline
+olanzapine
+contraceptives
+oxcarbazepine
+Phenytoin
+praziquantel
+protease inhibitors
+quetiapine
+risperidone
+theophylline
+topiramate
+tiagabine
+tramadol
+triazolam
+valproate
+warfarin
+ziprasidone
+zonisamide
+.
+EQUETROTM
+.
+Carbamazepine
+EQUETROTM
+Clomipramine HCl
+Phenytoin
+primidone
+EQUETROTM
+.
+Carbamazepine
+carbamazepine
+lithium
+.
+carbamazepine
+EQUETROTM
+anticonvulsants
+.
+anti-malarial drugs
+chloroquine
+mefloquine
+carbamazepine
+.
+EQUETROTM
+.
+EQUETROTM
+centrally acting drugs
+alcohol
+.
+Geocillin
+carbenicillin indanyl sodium
+probenecid
+.
+LODOSYN
+Carbidopa
+levodopa
+carbidopa
+levodopa
+.
+monoamine oxidase inhibitors
+.
+Dopamine D2 receptor antagonists
+phenothiazines
+butyrophenones
+risperidone
+isoniazid
+levodopa
+.
+levodopa
+phenytoin
+papaverine
+.
+LODOSYN
+levodopa
+carbidopa
+levodopa
+.
+Iron
+carbidopa
+levodopa
+.
+metoclopramide
+levodopa
+metoclopramide
+.
+Iodine
+iodine
+Carbimazole
+iodine
+Carbimazole
+.
+digoxin
+digitoxin
+antithyroid agents
+.
+Antithyroid agents
+sodium iodide I131
+Carbimazole
+.
+anticoagulants
+.
+anticoagulant
+.
+Antihistamines
+tricyclic antidepressants
+barbiturates
+alcohol
+CNS depressants
+.
+MAO inhibitors
+antihistamines
+.
+Sympathomimetic amines
+reserpine
+veratrum alkaloids
+methyldopa
+mecamylamine
+.
+sympathomimetics
+MAO inhibitors
+beta adrenergic blockers
+.
+Carboplatin
+.
+HEMABATE
+oxytocic agents
+.
+oxytocic agents
+.
+Ocupress
+beta-adrenergic blocking agent
+.
+beta-blocker
+reserpine
+.
+debrisoquin
+carvedilol
+quinidine
+fluoxetine
+paroxetine
+propafenone
+carvedilol
+.
+agents with b-blocking properties
+reserpine
+monoamine oxidase inhibitors
+.
+Clonidine
+clonidine
+agents with b-blocking properties
+.
+agents with b-blocking properties
+clonidine
+b-blocking agent
+.
+Clonidine
+.
+Cyclosporine
+cyclosporine
+carvedilol
+.
+cyclosporine
+cyclosporine
+.
+cyclosporine
+.
+cyclosporine
+carvedilol
+cyclosporine
+.
+Digoxin
+Digoxin
+digoxin
+carvedilol
+.
+digoxin
+COREG
+.
+digoxin
+COREG
+.
+Rifampin
+carvedilol
+.
+Cimetidine
+.
+Calcium Channel Blockers
+COREG
+diltiazem
+.
+agents with b-blocking properties
+COREG
+calcium channel blockers
+verapamil
+diltiazem
+.
+Insulin
+Hypoglycemics
+Agents with b-blocking properties
+insulin
+hypoglycemics
+.
+insulin
+hypoglycemics
+.
+caspofungin acetate
+.
+caspofungin
+.
+Caspofungin
+.
+CANCIDAS
+itraconazole
+amphotericin B
+mycophenolate
+nelfinavir
+tacrolimus
+.
+CANCIDAS
+itraconazole
+amphotericin B
+.
+CANCIDAS
+tacrolimus
+tacrolimus
+CANCIDAS
+tacrolimus
+.
+tacrolimus
+tacrolimus
+.
+cyclosporine
+caspofungin
+.
+CANCIDAS
+cyclosporine
+.
+CANCIDAS
+cyclosporine
+.
+rifampin
+caspofungin
+.
+rifampin
+CANCIDAS
+.
+efavirenz
+nevirapine
+phenytoin
+dexamethasone
+carbamazepine
+CANCIDAS
+caspofungin
+.
+caspofungin
+.
+CANCIDAS
+efavirenz
+nevirapine
+phenytoin
+dexamethasone
+carbamazepine
+CANCIDAS
+.
+cephalosporin antibiotics
+.
+cephalosporin antibiotics
+.
+Probenecid
+cephalosporins
+cephalosporin
+.
+cephalosporins
+.
+Antacids
+aluminum
+magnesium
+cefdinir
+Maalox TC
+.
+cefdinir
+antacid
+cefdinir
+.
+antacids
+OMNICEF
+OMNICEF
+antacid
+.
+Probenecid
+b-lactam antibiotics
+probenecid
+cefdinir
+cefdinir
+.
+Iron Supplements
+Iron
+cefdinir
+iron supplement
+iron
+vitamins
+iron
+.
+iron supplements
+OMNICEF
+OMNICEF
+.
+iron
+iron
+cefdinir
+.
+iron
+iron
+cefdinir
+.
+OMNICEF
+iron
+.
+cefdinir
+.
+cefdinir
+iron
+.
+nitroprusside
+nitroferricyanide
+.
+cefdinir
+.
+Cephalosporins
+.
+Contraceptives
+cefditoren pivoxil
+ethinyl estradiol
+contraceptives
+.
+cefditoren pivoxil
+antacids
+.
+H2-Receptor Antagonists
+famotidine
+cefditoren pivoxil
+.
+cefditoren pivoxil
+H2 receptor antagonists
+.
+Probenecid
+b-lactam antibiotics
+probenecid
+cefditoren pivoxil
+cefditoren
+.
+Cephalosporins
+.
+cefditoren pivoxil
+.
+aminoglycosides
+MAXIPIME
+aminoglycoside antibiotics
+.
+cephalosporins
+diuretics
+furosemide
+.
+cefepime
+.
+Carbamazepine
+carbamazepine
+SUPRAX
+.
+carbamazepine
+.
+Warfarin
+Anticoagulants
+cefixime
+.
+nitroprusside
+nitroferricyanide
+.
+SUPRAX
+.
+cephalosporin antibiotics
+.
+cephalosporins
+aminoglycoside antibiotics
+.
+Cephalosporins
+cefotaxime sodium
+.
+CEFOTAN
+.
+CEFOTAN
+aminoglycoside
+.
+CEFOTAN
+.
+cephalosporins
+cefotetan
+.
+cephalosporins
+aminoglycoside antibiotics
+.
+cephalothin
+cefoxitin
+.
+cefoxitin
+.
+cefoxitin
+.
+aminoglycoside antibiotics
+cephalosporin antibiotics
+.
+probenecid
+cefprozil
+.
+cefprozil
+antacid
+.
+cephalosporins
+aminoglycoside antibiotics
+diuretics
+furosemide
+.
+aminoglycosides
+aminoglycosidic antibiotics
+.
+ceftazidime
+.
+Chloramphenicol
+beta-lactam antibiotics
+ceftazidime
+.
+ceftazidime
+.
+Theophylline
+ceftibuten
+.
+ceftibuten
+theophylline
+.
+theophylline
+.
+ceftibuten
+theophylline
+.
+Antacids
+H 2 -receptor antagonists
+ceftibuten
+.
+ceftibuten
+.
+antacid
+ceftibuten
+.
+ranitidine
+ceftibuten
+ceftibuten
+.
+ceftibuten
+.
+cephalosporins
+.
+ceftibuten
+ceftibuten
+.
+Cefizox
+cephalosporins
+aminoglycosides
+.
+cefuroxime
+.
+Cefuroxime
+.
+celecoxib
+.
+Celecoxib
+.
+celecoxib
+.
+celecoxib
+.
+celecoxib
+.
+celecoxib
+fluconazole
+lithium
+.
+nonsteroidal anti-inflammatory drugs
+NSAIDs
+furosemide
+ACE inhibitors
+.
+celecoxib
+glyburide
+ketoconazole
+methotrexate
+phenytoin
+tolbutamide
+warfarin
+.
+ACE inhibitors
+NSAIDs
+Angiotensin Converting Enzyme (ACE) inhibitors
+.
+CELEBREX
+ACE-inhibitors
+.
+Furosemide
+NSAIDs
+furosemide
+thiazides
+.
+Aspirin
+CELEBREX
+aspirin
+.
+aspirin
+CELEBREX
+CELEBREX
+.
+CELEBREX
+aspirin
+.
+Fluconazole
+fluconazole
+celecoxib
+.
+celecoxib
+fluconazole
+.
+CELEBREX
+fluconazole
+.
+Lithium
+lithium
+lithium
+CELEBREX
+lithium
+.
+lithium
+CELEBREX
+.
+Methotrexate
+methotrexate
+CELEBREX
+methotrexate
+.
+Warfarin
+celecoxib
+warfarin
+warfarin
+.
+celecoxib
+warfarin
+.
+CELEBREX
+warfarin
+.
+Metformin
+cephalexin
+metformin
+metformin
+metformin
+.
+cephalexin
+metformin
+.
+cephalexin
+metformin
+.
+metformin
+cephalexin
+metformin
+.
+Probenecid
+b-lactams
+cephalexin
+probenecid
+.
+Keflex
+.
+Immunosuppressive Drugs
+Fibric Acid Derivatives
+Niacin
+Nicotinic Acid
+Erythromycin
+Azole Antifungals
+.
+ANTACID
+Magnesium-Aluminum Hydroxide
+Cerivastatin
+antacid
+.
+CIMETlDINE
+Cerivastatin
+cimetidine
+.
+CHOLESTYRAMINE
+cholestyramine
+cerivastatin sodium
+.
+cerivastatin sodium
+cholestyramine
+cerivastatin sodium
+.
+cholestyramine
+cerivastatin sodium
+cerivastatin
+cerivastatin sodium
+.
+cerivastatin sodium
+cholestyramine
+cerivastatin sodium
+.
+DIGOXIN
+digoxin
+digoxin
+cerivastatin sodium
+.
+Cerivastatin
+digoxin
+.
+WARFARIN
+warfarin
+cerivastatin
+warfarin
+.
+warfarin
+cerivastatin sodium
+.
+warfarin
+cerivastatin
+cerivastatin sodium
+.
+ERYTHROMYCIN
+cerivastatin
+erythromycin
+.
+cerivastatin sodium
+angiotensin- converting enzyme (ACE) inhibitors
+betablockers
+calcium-channel blockers
+diuretics
+nonsteroidal anti-inflammatory drugs
+NSAIDs
+.
+cetirizine
+pseudoephedrine
+antipyrine
+ketoconazole
+erythromycin
+azithromycin
+.
+theophylline
+cetirizine
+cetirizine
+.
+theophylline
+cetirizine
+.
+theophylline
+azithromycin
+pseudoephedrine
+ketoconazole
+erythromycin
+.
+cetirizine
+theophylline
+.
+theophylline
+.
+Cetrotide
+.
+ERBITUX
+irinotecan
+.
+ERBITUX
+irinotecan
+.
+Cevimeline
+beta adrenergic antagonists
+.
+cevimeline
+.
+Cevimeline
+.
+cevimeline
+.
+Cevimeline
+.
+cevimeline
+.
+chlorambucil
+.
+anticoagulants
+chlordiazepoxide
+.
+alcohol
+central nervous system depressants
+.
+anesthetic solutions
+epinephrine
+norepinephrine
+monoamine oxidase inhibitors
+tricyclic antidepressants
+phenothiazines
+.
+vasopressor drugs
+ergot-type oxytocic drugs
+.
+sulfonamides
+.
+chloroprocaine
+sulfonamide drug
+.
+Antacids
+kaolin
+Antacids
+kaolin
+chloroquine
+.
+chloroquine
+.
+Cimetidine
+Cimetidine
+chloroquine
+.
+cimetidine
+.
+Ampicillin
+chloroquine
+ampicillin
+.
+chloroquine
+.
+Cyclosporin
+chloroquine
+cyclosporin
+.
+cyclosporin
+chloroquine
+.
+thiazide diuretics
+.
+Alcohol
+barbiturates
+narcotics
+.
+Antidiabetic drugs
+insulin
+antidiabetic drug
+.
+antihypertensive drugs
+.
+Cholestyramine
+colestipol
+resins
+Cholestytamine
+colestipol
+resins
+thiazide diuretics
+diuretic
+.
+Corticosteroids
+ACTH
+.
+norepinephrine
+.
+Skeletal muscle relaxants
+tubocurarine
+muscle relaxant
+.
+Lithium
+diuretics
+.
+Diuretic agents
+lithium
+lithium
+.
+lithium
+chlorothiazide
+.
+Non-steroidal Anti-inflammatory Drugs
+non-steroidal anti-inflammatory agent
+loop diuretics
+potassium-sparing diuretics
+thiazide diuretics
+.
+chlorothiazide
+non-steroidal anti-inflammatory agents
+diuretic
+.
+Thiazides
+.
+Chlorotrianisene
+antidepressants
+aspirin
+barbiturates
+bromocriptine
+calcium
+corticosteroids
+corticotropin
+cyclosporine
+dantrolene
+nicotine
+somatropin
+tamoxifen
+warfarin
+.
+CNS depressants
+MAO inhibitors
+tricyclic antidepressants
+phenothiazines
+.
+chlorpheniramine
+.
+azole antifungals
+ciprofloxacin
+clarithromycin
+diclofenac
+doxycycline
+erythromycin
+imatinib
+isoniazid
+nefazodone
+nicardipine
+propofol
+protease inhibitors
+quinidine
+verapamil
+.
+antipsychotic drug
+chlorpromazine
+antiparkinsonian drug
+trihexyphenidyl
+tricyclic antidepressant
+amitriptyline
+.
+anti-depressants
+anti-anxiety drugs
+beta-blockers
+propranolol
+sparfloxacin
+grepafloxacin
+guanethidine
+guanadrel
+metrizamide
+cabergoline
+lithium
+narcotic
+codeine
+antihistamines
+diphenhydramine
+.
+sulfonylurea
+nonsteroidal anti-inflammatory agents
+salicylates
+sulfonamides
+chloramphenicol
+probenecid
+coumarins
+monoamine oxidase inhibitors
+beta adrenergic blocking agents
+.
+DIABINESE
+.
+DIABINESE
+.
+thiazides
+diuretics
+corticosteroids
+phenothiazines
+estrogens
+contraceptives
+phenytoin
+nicotinic acid
+sympathomimetics
+calcium channel blocking drugs
+isoniazid
+.
+DIABINESE
+.
+DIABINESE
+.
+barbiturates
+chlorpropamide
+barbiturates
+.
+disulfiram
+alcohol
+.
+miconazole
+hypoglycemic agents
+.
+miconazole
+.
+Chlorprothixene
+lithium
+.
+lithium
+lithium
+.
+chlorprothixene
+opioids
+opioid
+chlorprothixene
+opioids
+.
+chlorprothixene
+tramadol
+Ultram
+.
+chlorprothixene
+benzodiazepines
+barbituates
+.
+chlorprothixene
+anticholinergic drugs
+tricyclic antidepressants
+antiparkinsonian agents
+.
+Chlorthalidone
+antihypertensive drugs
+.
+ganglionic peripheral adrenergic blocking drugs
+.
+digitalis
+.
+Insulin
+.
+hypoglycemic agents
+.
+chlorthalidone
+.
+Chlorthalidone
+tubocurarine
+.
+Chlorthalidone
+norepinephrine
+.
+alcohol
+central nervous system depressants
+.
+vitamin D
+Vitamin D2
+Vitamin D3
+Calcitriol
+Calcidiol
+Cholestyramine
+Cholestyramine
+fat soluble vitamins
+.
+vitamin D
+.
+Phenytoin
+Phenobarbital
+phenytoin
+phenobarbital
+vitamin D
+calcitriol
+.
+calcitriol
+Rocaltrol
+.
+Thiazides
+Thiazides
+.
+thiazides
+vitamin D
+.
+Digitalis
+Vitamin D
+digitalis
+.
+Ketoconazole
+Ketoconazole
+vitamin D
+.
+ketoconazole
+.
+ketoconazole
+vitamin D
+.
+Corticosteroids
+vitamin D
+corticosteroids
+.
+vitamin D
+.
+Vitamin D
+vitamin D
+.
+Calcium
+calcium
+.
+Magnesium
+Magnesium
+antacids
+vitamin D
+.
+Cholestyramine
+resin
+phenylbutazone
+warfarin
+thiazide diuretics
+propranolol
+tetracycline
+penicillin G
+phenobarbital
+thyroxine
+estrogens
+progestins
+digitalis
+.
+phosphate
+.
+Cholestyramine
+resin
+cholestyramine
+resin
+digitalis
+cholestyramine
+resin
+.
+cholestyramine
+cholestyramine
+resin
+fat soluble vitamins
+.
+cholestyramine
+resin
+fat-soluble vitamins
+.
+CHOLESTYRAMINE
+RESIN
+CHOLESTYRAMINE
+RESIN
+.
+des-ciclesonide
+.
+ciclesonide
+.
+des-ciclesonide
+warfarin
+salicylic acid
+.
+ciclesonide
+erythromycin
+des-ciclesonide
+erythromycin
+.
+ciclesonide
+ketoconazole
+des-ciclesonide
+ciclesonide
+.
+ketoconazole
+ciclesonide
+.
+Probenecid
+Probenecid
+acetaminophen
+acyclovir
+angiotensin-converting enzyme inhibitors
+aminosalicylic acid
+barbiturates
+benzodiazepines
+bumetanide
+clofibrate
+methotrexate
+famotidine
+furosemide
+nonsteroidal anti-inflammatory
+theophylline
+zidovudine
+.
+Zidovudine
+probenecid
+VISTIDE
+.
+VISTIDE
+aminoglycosides
+tobramycin
+gentamicin
+amikacin
+amphotericin B
+foscarnet
+pentamidine
+vancomycin
+non-steroidal anti-inflammatory agents
+.
+VISTIDE
+.
+PLETAL
+PLETAL
+ketoconazole
+erythromycin
+omeprazole
+.
+omeprazole
+erythromycin
+cilostazol
+.
+cilostazol
+diltiazem
+.
+Pletal
+lovastatin
+.
+Tagamet
+warfarin-type anticoagulants
+phenytoin
+propranolol
+nifedipine
+chlordiazepoxide
+diazepam
+tricyclic antidepressants
+lidocaine
+theophylline
+metronidazole
+.
+warfarin anticoagulants
+.
+anticoagulant
+Tagamet
+.
+phenytoin
+lidocaine
+theophylline
+.
+Tagamet
+theophylline
+Theo-Dur
+theophylline
+.
+theophylline
+.
+Tagamet
+.
+ketoconazole
+.
+cimetidine
+.
+Tagamet
+.
+Sensipar
+Sensipar
+.
+flecainide
+vinblastine
+thioridazine
+tricyclic antidepressants
+.
+Amitriptyline
+cinacalcet
+amitriptyline
+amitriptyline
+nortriptyline
+.
+Sensipar
+Sensipar
+.
+Ketoconazole
+Sensipar
+.
+ketoconazole
+cinacalcet
+Sensipar
+.
+Sensipar
+ketoconazole
+erythromycin
+itraconazole
+.
+theophylline
+quinolones
+.
+theophylline
+theophylline
+quinolone
+.
+theophylline
+theophylline
+.
+Quinolones
+caffeine
+.
+caffeine
+.
+cinoxacin
+cinoxacin
+caffeine
+.
+Antacids
+sucralfate
+quinolones
+.
+quinolones
+iron
+multivitamins
+zinc
+Videx
+didanosine
+.
+Quinolones
+cinoxacin
+anticoagulants
+warfarin
+.
+quinolone class antimicrobial
+nonsteroidal anti-inflammatory drug
+fenbufen
+.
+Fenbufen
+.
+cinoxacin
+nonsteroidal anti-inflammatory agents
+.
+cyclosporine
+quinolones
+cyclosporine
+.
+quinolones
+ciprofloxacin
+caffeine
+.
+caffeine
+.
+quinolones
+ciprofloxacin
+cyclosporine
+.
+Glyburide
+ciprofloxacin
+sulfonylurea
+glyburide
+.
+Histamine H2-receptor antagonists
+Histamine H2-receptor antagonists
+ciprofloxacin
+.
+Methotrexate
+methotrexate
+ciprofloxacin
+methotrexate
+.
+methotrexate
+.
+methotrexate
+ciprofloxacin
+.
+quinolone
+ciprofloxacin
+magnesium
+aluminum
+antacids
+sucralfate
+VIDEX
+calcium
+iron
+zinc
+ciprofloxacin
+.
+Proquin XR
+.
+ciprofloxacin
+antacids
+.
+Non-steroidal anti-inflammatory drugs
+aspirin
+quinolones
+.
+Omeprazole
+ciprofloxacin
+Proquin XR
+Proquin XR
+omeprazole
+.
+Omeprazole
+Proquin XR
+.
+Phenytoin
+phenytoin
+ciprofloxacin
+.
+Probenecid
+Probenecid
+ciprofloxacin
+ciprofloxacin
+.
+Theophylline
+quinolones
+ciprofloxacin
+theophylline
+theophylline
+.
+theophylline
+.
+theophylline
+.
+Warfarin
+Quinolones
+anticoagulant
+warfarin
+.
+Cisapride
+.
+cisapride
+cisapride
+.
+Antibiotics
+clarithromycin
+erythromycin
+troleandomycin
+cisapride
+cisapride
+.
+Anticholinergics
+anticholinergic compounds
+belladonna alkaloids
+dicyclomine
+cisapride
+.
+Anticoagulants
+anticoagulants
+.
+cisapride
+anticoagulant
+.
+Antidepressants
+nefazodone
+cisapride
+cisapride
+.
+Antifungals
+fluconazole
+itraconazole
+ketoconazole
+cisapride
+cisapride
+.
+ketoconazole
+cisapride
+cisapride
+.
+cisapride
+ketoconazole
+.
+H2 Receptor Antagonists
+Cimetidine
+cisapride
+cisapride
+ranitidine
+.
+cimetidine
+ranitidine
+cisapride
+.
+Protease Inhibitors
+indinavir
+ritonavir
+cisapride
+cisapride
+.
+cisapride
+cisapride
+.
+Cisapride
+antiarrhythmics
+quinidine
+procainamide
+sotalol
+.
+tricyclic antidepressants
+amitriptyline
+.
+tetracyclic antidepressants
+maprotiline
+.
+antipsychotic medications
+sertindole
+.
+astemizole
+bepridil
+sparfloxacin
+terodiline
+.
+cisapride
+.
+NIMBEX
+succinylcholine
+.
+NIMBEX
+succinylcholine
+.
+succinylcholine
+NIMBEX
+.
+NIMBEX
+succinylcholine
+NIMBEX
+succinylcholine
+.
+NIMBEX
+succinylcholine
+succinylcholine
+.
+vecuronium
+pancuronium
+atracurium
+NIMBEX
+.
+Isoflurane
+enflurane
+nitrous oxide
+oxygen
+NIMBEX
+NIMBEX
+.
+isoflurane
+enflurane
+NIMBEX
+NIMBEX
+.
+enflurane
+isoflurane
+NIMBEX
+.
+propofol
+NIMBEX
+.
+nondepolarizing agents
+NIMBEX
+antibiotics
+aminoglycosides
+tetracyclines
+bacitracin
+polymyxins
+lincomycin
+clindamycin
+colistin
+sodium colistemethate
+magnesium
+lithium
+anesthetics
+procainamide
+quinidine
+.
+nondepolarizing neuromuscular blocking agents
+phenytoin
+carbamazepine
+.
+phenytoin
+carbamazepine
+NIMBEX
+.
+anticonvulsant agents
+cisplatin
+.
+Central nervous system depressant
+alcohol
+antidepressants
+antihistamines
+antipsychotics
+reserpine
+methyldopa
+beta-blockers
+muscle relaxants
+narcotics
+sedatives
+tranquilizers
+.
+LEUSTATIN
+.
+LEUSTATIN
+.
+allopurinol
+ampicillin
+ampicillin
+.
+ampicillin
+allopurinol
+.
+AUGMENTIN XR
+allopurinol
+AUGMENTIN XR
+.
+AUGMENTIN XR
+allopurinol
+.
+broad-spectrum antibiotics
+AUGMENTIN XR
+contraceptives
+.
+antihistamines
+CNS depressants
+barbiturates
+tranquilizers
+alcohol
+.
+antihistamines
+CNS depressant drugs
+.
+Monoamine oxidase (MAO) inhibitors
+antihistamines
+.
+Amantadine
+tricyclic antidepressants
+MAOIs
+clidinium
+.
+Clidinium
+phenothiazines
+levodopa
+ketoconazole
+.
+Clindamycin
+neuromuscular blocking agents
+.
+clindamycin
+erythromycin
+.
+Alcohol
+cimetidine
+.
+clofarabine
+.
+clofarabine
+.
+CLOLAR
+.
+CLOLAR
+.
+dapsone
+Lamprene
+.
+dapsone
+clofazimine
+.
+anticoagulants
+Atromid-S
+.
+anticoagulant
+.
+Atromid-S
+phenytoin
+tolbutamide
+.
+Atromid-S
+.
+tolbutamide
+Atromid-S
+.
+fibrate
+lovastatin
+.
+lovastatin
+fibrate
+.
+fibrates
+gemfibrozil
+fibrates
+clofibrate
+.
+lovastatin
+fibrates
+.
+clomiphene citrate
+.
+Anafranil
+.
+Anafranil
+.
+Anafranil
+MAO inhibitors
+.
+Anafranil
+anticholinergic
+sympathomimetic drugs
+.
+tricyclic antidepressants
+guanethidine
+clonidine
+CMI
+tricyclic antidepressants
+.
+CMI
+haloperidol
+.
+tricyclic antidepressants
+methylphenidate
+cimetidine
+fluoxetine
+barbiturates
+phenytoin
+CMI
+.
+CMI
+phenobarbital
+.
+tricyclic antidepressants
+TCAs
+.
+TCA
+.
+TCA
+.
+quinidine
+.
+cimetidine
+antidepressants
+phenothiazines
+Type 1C antiarrhythmics
+propafenone
+flecainide
+.
+selective serotonin reuptake inhibitors
+SSRIs
+fluoxetine
+sertraline
+paroxetine
+fluvoxamine
+.
+Fluvoxamine
+TCA
+.
+SSRI
+TCA
+SSRI
+.
+TCAs
+SSRIs
+.
+TCA
+fluoxetine
+.
+tricyclic antidepressant class
+Anafranil
+tricyclic antidepressant agent
+.
+tricyclic antidepressant agent
+.
+TCA
+tricyclic antidepressant class
+Anafranil
+.
+Anafranil
+Anafranil
+warfarin
+digoxin
+.
+Anafranil
+.
+Clonazepam
+Clonazepam
+phenytoin
+carbamazepine
+phenobarbital
+.
+clonazepam
+.
+Clonazepam
+ranitidine
+clonazepam
+.
+clonazepam
+propantheline
+anticholinergic agent
+clonazepam
+clonazepam
+propantheline
+.
+Fluoxetine
+clonazepam
+.
+phenytoin
+carbamazepine
+phenobarbital
+clonazepam
+clonazepam
+.
+clonazepam
+antifungal agents
+clonazepam
+.
+benzodiazepine class
+alcohol
+narcotics
+barbiturates
+nonbarbiturate hypnotics
+antianxiety agents
+phenothiazines classes of antipsychotic agents
+thioxanthene classes of antipsychotic agents
+butyrophenone classes of antipsychotic agents
+monoamine oxidase inhibitors
+tricyclic antidepressants
+anticonvulsant drugs
+.
+clonidine hydrochloride
+tricyclic antidepressants
+clonidine
+.
+Clonidine hydrochloride
+alcohol
+barbiturates
+sedatives
+.
+Amitriptyline
+clonidine
+Clonidine
+alcohol
+barbiturates
+sedating drugs
+.
+Narcotic analgesics
+clonidine
+.
+Tricyclic antidepressants
+clonidine
+.
+tricyclic antidepressants
+clonidine
+.
+Beta blockers
+clonidine
+.
+clonidine
+digitalis
+calcium channel blockers
+beta-blockers
+.
+fluphenazine
+clonidine
+.
+clonidine
+clonidine
+.
+clonidine
+anesthetics
+.
+Aspirin
+warfarin
+heparin
+NSAIDs
+.
+TRANXENE
+.
+clorazepate dipotassium
+hexobarbital
+ethyl alcohol
+chlorpromazine
+.
+hypnotic medications
+.
+benzodiazepines
+barbiturates
+narcotics
+phenothiazines
+monoamine oxidase inhibitors
+antidepressants
+.
+TRANXENE
+.
+antacids
+TRANXENE
+.
+Clozapine
+.
+Clozapine
+.
+Clozapine
+.
+Clozapine
+alcohol
+.
+clozapine
+.
+benzodiazepines
+.
+psychotropic drugs
+Clozapine
+.
+Clozapine
+benzodiazepines
+psychotropics
+clozapine
+benzodiazepine
+psychotropic drug
+.
+Clozapine
+antihypertensive drugs
+atropine
+.
+epinephrine
+epinephrine
+.
+Clozapine
+.
+clozapine
+.
+Phenytoin
+nicotine
+rifampin
+Clozapine
+Clozapine
+.
+clozapine
+.
+Cimetidine
+caffeine
+erythromycin
+Clozapine
+.
+Clozapine
+carbamazepine
+carbamazepine
+Clozapine
+.
+clozapine
+fluvoxamine
+paroxetine
+.
+clozapine
+N-desmethylclozapine
+clozapine N-oxide
+fluvoxamine
+.
+Paroxetine
+clozapine
+.
+clozapine
+clozapine
+paroxetine
+fluoxetine
+sertraline
+.
+Clozapine
+fluvoxamine
+.
+Clozapine
+.
+debrisoquin
+dextromethorphan
+tricyclic antidepressants
+clozapine
+.
+clozapine
+.
+antidepressants
+clozapine
+selective serotonin reuptake inhibitors
+.
+clozapine
+clozapine
+.
+clozapine
+antidepressants
+phenothiazines
+carbamazepine
+Type 1C antiarrhythmics
+propafenone
+flecainide
+encainide
+quinidine
+.
+NovoSeven
+coagulation factor
+.
+activated prothrombin complex concentrates
+prothrombin complex concentrates
+.
+tranexamic acid
+aminocaproic acid
+NovoSeven
+.
+NovoSeven
+.
+Codeine
+narcotic analgesics
+anesthetics
+phenothiazines
+tranquilizers
+sedative-hypnotics
+CNS depressants
+alcohol
+.
+Colchicine
+acidifying agents
+.
+colchicine
+alkalinizing agents
+.
+Colchicine
+CNS depressants
+.
+sympathomimetic agents
+colchicine
+.
+WelChol
+.
+WelChol
+digoxin
+lovastatin
+metoprolol
+quinidine
+valproic acid
+warfarin
+.
+WelChol
+verapamil
+Calan SR
+.
+verapamil
+.
+PHENYTOIN
+.
+anticoagulants
+disulfiram
+disulfiram
+.
+isoniazid
+disulfiram
+.
+disulfiram
+.
+disulfiram
+nitrite
+disulfiram
+nitrites
+.
+Disulfiram
+.
+dobutamine
+b-blocking drug
+.
+dobutamine
+nitroprusside
+.
+dobutamine
+digitalis preparations
+furosemide
+spironolactone
+lidocaine
+glyceryl trinitrate
+isosorbide dinitrate
+morphine
+atropine
+heparin
+protamine
+potassium chloride
+folic acid
+acetaminophen
+.
+TAXOTERE
+.
+docetaxel
+cyclosporine
+terfenadine
+ketoconazole
+erythromycin
+troleandomycin
+.
+TAXOTERE
+.
+Cimetidine
+cimetidine
+.
+Cimetidine
+TIKOSYN
+dofetilide
+.
+Cimetidine
+dofetilide
+.
+cimetidine
+.
+TIKOSYN
+anti-ulcer
+omeprazole
+ranitidine
+antacids
+aluminum hydroxide
+magnesium hydroxide
+cimetidine
+TIKOSYN
+.
+Verapamil
+verapamil
+.
+TIKOSYN
+verapamil
+dofetilide
+dofetilide
+.
+verapamil
+dofetilide
+.
+Ketoconazole
+ketoconazole
+.
+Ketoconazole
+TIKOSYN
+dofetilide
+.
+Trimethoprim
+Sulfamethoxazole
+trimethoprim
+sulfamethoxazole
+.
+Hydrochlorothiazide
+HCTZ
+Triamterene
+HCTZ
+triamterene
+.
+HCTZ
+HCTZ
+triamterene
+TIKOSYN
+diuretic
+.
+HCTZ
+dofetilide
+.
+dofetilide
+.
+TIKOSYN
+diuretics
+diuretics
+.
+potassium depleting diuretics
+TIKOSYN
+.
+Dofetilide
+.
+TIKOSYN
+.
+triamterene
+metformin
+amiloride
+dofetilide
+.
+Dofetilide
+.
+dofetilide
+.
+macrolide antibiotics
+azole antifungal agents
+protease inhibitors
+serotonin reuptake inhibitors
+amiodarone
+cannabinoids
+diltiazem
+nefazadone
+norfloxacin
+quinine
+zafirlukast
+TIKOSYN
+dofetilide
+.
+Dofetilide
+.
+Digoxin
+TIKOSYN
+digoxin
+.
+digoxin
+dofetilide
+.
+TIKOSYN
+digoxin
+.
+digoxin
+.
+amlodipine
+phenytoin
+glyburide
+ranitidine
+omeprazole
+estrogens
+medroxyprogesterone
+antacid
+aluminum hydroxide
+magnesium hydroxide
+theophylline
+TIKOSYN
+.
+TIKOSYN
+warfarin
+propranolol
+phenytoin
+theophylline
+contraceptives
+.
+dofetilide
+.
+ACE inhibitors
+anticoagulants
+calcium channel blockers
+beta blockers
+cardiac glycosides
+nitrates
+sulphonylureas
+loop diuretics
+potassium sparing diuretics
+thiazide diuretics
+.
+dofetilide
+thiazide diuretics
+.
+dolasetron
+hydrodolasetron
+hydrodolasetron
+.
+hydrodolasetron
+dolasetron
+cimetidine
+rifampin
+.
+Dolasetron
+.
+fexofenadine
+ketoconazole
+fexofenadine
+erythromycin
+.
+Antacids
+fexofenadine hydrochloride
+aluminum
+magnesium
+antacid
+Maalox
+fexofenadine
+.
+ALLEGRA
+aluminum
+magnesium
+antacids
+.
+fexofenadine
+.
+histamine
+.
+fexofenadine hydrochloride
+.
+fexofenadine
+.
+fexofenadine
+ALLEGRA
+.
+NEUPOGEN
+.
+lithium
+.
+Finasteride
+.
+antipyrine
+digoxin
+propranolol
+theophylline
+warfarin
+.
+finasteride
+acetaminophen
+acetylsalicylic acid
+analgesics
+angiotensin-converting enzyme (ACE) inhibitors
+anticonvulsants
+benzodiazepines
+beta blockers
+calcium-channel blockers
+nitrates
+diuretics
+H2 antagonists
+HMG-CoA reductase inhibitors
+prostaglandin synthetase inhibitors
+NSAIDs
+quinolone anti-infectives
+.
+Finasteride
+.
+finasteride
+.
+finasteride
+.
+PROPECIA
+finasteride
+.
+PROSCAR
+finasteride
+.
+finasteride
+.
+TAMBOCOR
+digitalis preparations
+beta-adrenergic blocking agents
+.
+TAMBOCOR
+digoxin
+digoxin
+.
+TAMBOCOR
+propranolol
+flecainide
+propranolol
+.
+TAMBOCOR
+propranolol
+.
+TAMBOCOR
+propranolol
+.
+TAMBOCOR
+beta blockers
+.
+beta blockers
+flecainide
+.
+Flecainide
+.
+flecainide
+.
+anticoagulants
+.
+TAMBOCOR
+diuretics
+.
+phenytoin
+phenobarbital
+carbamazepine
+flecainide
+.
+cimetidine
+flecainide
+.
+amiodarone
+flecainide
+flecainide
+flecainide
+.
+quinidine
+flecainide
+flecainide
+.
+TAMBOCOR
+disopyramide
+verapamil
+.
+TAMBOCOR
+disopyramide
+verapamil
+TAMBOCOR
+.
+TAMBOCOR
+nifedipine
+diltiazem
+.
+Floxuridine
+.
+Cytosine arabinoside
+cytostatic agent
+flucytosine
+.
+flucytosine
+.
+Ancobon
+.
+FLUDARA
+pentostatin
+.
+adrenal corticosteroids
+.
+Amphotericin B
+potassium-depleting diuretics
+benzothiadiazines
+ethacrynic acid
+furosemide
+.
+potassium
+.
+Digitalis glycosides
+digitalis
+.
+potassium
+.
+anticoagulants
+.
+anticoagulant
+.
+Antidiabetic drugs
+insulin
+.
+antidiabetic drug
+.
+Aspirin
+.
+aspirin
+.
+salicylate
+steroids
+aspirin
+.
+salicylate
+aspirin
+.
+salicylate
+.
+Barbiturates
+phenytoin
+rifampin
+fludrocortisone acetate
+.
+steroid
+steroid
+.
+Anabolic steroids
+androgens
+oxymetholone
+methandrostenolone
+norethandrolone
+.
+Vaccines
+.
+Estrogen
+.
+corticosteroids
+.
+estrogen
+corticosteroid
+estrogen
+.
+Corticosteroids
+.
+central nervous system depressants
+benzodiazepines
+.
+ROMAZICON
+narcotics
+anesthetics
+muscle relaxants
+.
+ROMAZICON
+cyclic antidepressants
+benzodiazepine
+flumazenil
+.
+ROMAZICON
+.
+ROMAZICON
+benzodiazepine
+.
+ROMAZICON
+benzodiazepines
+.
+zopiclone
+ROMAZICON
+.
+benzodiazepines
+flumazenil
+.
+ethanol
+flumazenil
+.
+ROMAZICON
+long-acting benzodiazepine
+.
+flumazenil
+.
+long-acting benzodiazepines
+diazepam
+short-acting benzodiazepines
+midazolam
+.
+benzodiazepines
+benzodiazepine
+alcohol
+sedative
+ROMAZICON
+.
+fluoxetine
+.
+antibiotics
+erythromycin
+clarithromycin
+azithromycin
+.
+MAO inhibitors
+.
+antibiotics
+erythromycin
+clarithromycin
+azithromycin
+.
+MAO inhibitors
+.
+MAO inhibitor
+.
+MAO inhibitors
+.
+MAO inhibitors
+.
+escitalopram
+non-selective MAO inhibitor
+.
+MAO inhibitor
+escitalopram
+.
